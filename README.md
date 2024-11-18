@@ -23,14 +23,14 @@ To run this project locally, follow these steps:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/todo-mern.git
-cd todo-mern
+git clone https://github.com/Mahesh-1824/Todolist.git
+cd Todolist
 ```
 ### 2. Set Up the Backend
 
 #### Prerequisites:
 - Install **Node.js** (https://nodejs.org/).
-- Install **MongoDB** on your machine or use a cloud MongoDB service like [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
+- Install **MongoDB** on your machine
 
 #### Install Backend Dependencies:
 Navigate to the backend directory and install the necessary dependencies:
